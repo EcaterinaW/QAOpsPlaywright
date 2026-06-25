@@ -1,0 +1,10 @@
+"use strict";
+let message1 = 'Hello';
+message1 = "buy";
+console.log(message1);
+let age1 = 20;
+console.log(age1);
+let isActive = false;
+let numbers1 = [1, 2, 3];
+let data = 'this could be anything';
+data = 42;
